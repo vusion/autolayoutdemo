@@ -1,0 +1,34 @@
+{
+    "appConfig": {
+        "project": "wx",
+        "domainName": "wx",
+        "extendedConfig": null,
+        "envConfig": {
+            "lowcodeDomain": "lcap.163yun.com"
+        },
+        "tenant": "nobug"
+    },
+    "dnsAddr": "wx.nobug.lcap.163yun.com",
+    "tenant": "nobug",
+    "env": "dev",
+    "hasUserCenter": true,
+    "hasAuth": true,
+    "authResourcePaths": [
+        "/permission_center/addRoleUser",
+        "/permission_center/resourceManagement",
+        "/permission_center/roleManagement",
+        "/permission_center/userManagement",
+        "/permission_center"
+    ],
+    "baseResourcePaths": [
+        "/test",
+        "/login",
+        "/index",
+        "/dashboard/BD",
+        "/dashboard/qwe",
+        "/dashboard/orderlist",
+        "/dashboard",
+        "/noAuth",
+        "/notFound"
+    ]
+}
