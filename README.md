@@ -3,6 +3,6 @@
 npm install
 npm run serve
 
-autolayout demo
-
 ```
+
+autolayout demo
